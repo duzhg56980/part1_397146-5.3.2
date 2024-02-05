@@ -1,0 +1,6 @@
+import cn.hutool.core.text.csv.CsvReadConfig;
+public class FunctionUse3902 {
+public void funcUse() {
+CsvReadConfig csvreadconfig = new CsvReadConfig();
+}
+}
